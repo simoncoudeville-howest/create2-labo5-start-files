@@ -24,12 +24,6 @@ body {
  * Customize the background color to match your design.
  */
 
-::-moz-selection {
-    background: #e85e00;
-    color: white;
-    text-shadow: none;
-}
-
 ::selection {
     background: #e85e00;
     color: white;
